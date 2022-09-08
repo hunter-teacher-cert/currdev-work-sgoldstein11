@@ -13,6 +13,15 @@ At the end, students will need to make a reflection on what side they come down 
 
 [Outline for Socratic Seminar](https://www.facinghistory.org/resource-library/socratic-seminar)
  The Socratic Seminar would be modeled off of this activity.
+ 
+ 
+ -----------------
+ 
+ ## 9-12.CT.10
+Collaboratively design and develop a program or computational artifact for a specific audience and create documentation outlining implementation
+features to inform collaborators and users.
+
+Since I don't have a dedicated CS class this year, I will be doing a CS unit within my science research class. In introducing CS to the students I will be using [Microbits](https://microbit.org/) 
 
 
 
