@@ -21,7 +21,13 @@ At the end, students will need to make a reflection on what side they come down 
 Collaboratively design and develop a program or computational artifact for a specific audience and create documentation outlining implementation
 features to inform collaborators and users.
 
-Since I don't have a dedicated CS class this year, I will be doing a CS unit within my science research class. In introducing CS to the students I will be using [Microbits](https://microbit.org/) 
+## 9-12.CT.5
+Modify a function or procedure in a program to perform its computation in a different way over the same inputs, while
+preserving the result of the overall program.
+
+Since I don't have a dedicated CS class this year, I will be doing a CS unit within my science research class. In introducing CS to the students I will be using [Microbits](https://microbit.org/) The wonderful thing about microbits is that they let the students observe almost instanteously the outcome of their code when they download it to the microbit and observe what happens. Whether they observe something with the light sensor or the accelerometer, students get direct feedback on code they wrote. 
+
+When I introduce the microbit to my class I am going to have them work with pre-existing code and download it to the microbit. Then I am going to have them work in a group to write documentation to explain what each line of code means based on how the microbit performed. Then I will have students modify the code to see what happens when they change certain parts of it to further the documentation in understanding exactly what each piece of code does. 
 
 
 
