@@ -10,7 +10,7 @@ While they do both mention the impacts on society of computing, it appears from 
 
 ## Major Similarities: 
 
-They both follow the same basic structure for the curriculum in terms of units. Tney are both approved by the college board so in terms of making sure the teacher covers the required topics for students to sit for the exam - they both do a good job of that. They both a free to use and seem to have extensive professional development for teachers. 
+They both follow the same basic structure for the curriculum in terms of units. Tney are both approved by the college board so in terms of making sure the teacher covers the required topics for students to sit for the exam - they both do a good job of that. They both a free to use and seem to have extensive professional development for teachers. They both appear to be backed by research and associated with organizations of higher learning. 
 
 ## Comparative Strengths and weaknesses: 
 
