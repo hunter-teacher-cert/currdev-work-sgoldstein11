@@ -14,4 +14,6 @@ They both follow the same basic structure for the curriculum in terms of units. 
 
 ## Comparative Strengths and weaknesses: 
 
-## Adopt anything from curriculum that you do not teach : 
+They both have daily lesson plans and activities to get students started. It seems like both are very strong curricula to use in the classroom with rich examples and applications to real life. Having not used either its hard to gauge the quality of the professional development offered. But from the website, it appears that BJC might have more extensive training that meets teachers where they are in their journey of teaching APCSP.  
+
+
