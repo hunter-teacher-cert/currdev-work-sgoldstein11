@@ -7,7 +7,7 @@ I would love to teach a class in HTML/CSS. I think this would be great for stude
 
 ## Target audiance
 
-Any student who wants to learn html and/or a student who wants to learn coding and also likes visual expression and has a creative side for design. 
+Any student who wants to learn html and/or a student who wants to learn coding and also likes visual expression and has a creative side for design. This might also be for a student who wants to learn coding but isn't ready for the more rigorous demands of an AP CS class and would like another entry point. 
 
 
 ## Where it fits along with the other courses in your school
