@@ -5,7 +5,7 @@
 
 ### How does one write & run code in this language?
 
-###Rate the complexity of the syntax?
+### Rate the complexity of the syntax?
 
 ### Strengths
 
